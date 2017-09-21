@@ -1,3 +1,3 @@
 # os-sample
 os samples 
-mostly used by tent's os creator
+mostly used by special couscous
