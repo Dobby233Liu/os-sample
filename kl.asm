@@ -16,7 +16,7 @@ start:
 	jmp $			
 
 
-	text_string db 'Hello world !', 0
+	text_string db 'Hello world!', 0
 
 
 print_string:			
@@ -33,5 +33,4 @@ print_string:
 	ret
 
 
-	times 510-($-$$) db 0
-	dw 0xAA55		; go away
+	
